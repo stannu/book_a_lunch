@@ -41,3 +41,9 @@ A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+## ライセンス・著作権
+Copyright (c) 2026 KAWABATA KENJI. All Rights Reserved.
+
+本リポジトリのソースコードは、ポートフォリオとしての公開を目的としています。
+無断での転載、複製、改変、再配布、および商業利用等を一切禁じます。
